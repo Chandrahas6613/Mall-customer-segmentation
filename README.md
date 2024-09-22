@@ -30,7 +30,7 @@ _Implemented a data analysis model to segment mall customers based on their tran
 >
 > ![method](https://github.com/user-attachments/assets/1f8fed21-ebde-4456-b670-89bbd74a28ec)
 
-> > [!TIP]
+> [!TIP]
 >
 > **Languages Used:**
 > 
