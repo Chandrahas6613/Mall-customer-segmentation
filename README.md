@@ -5,8 +5,8 @@ _Implemented a data analysis model to segment mall customers based on their tran
 > [!NOTE]
 > 
 > **Technologies:**
->
-> Python, Pandas, NumPy, Matplotlib, Seaborn, K-Means Clustering,Scikit-learn, Datetime.
+>Python, Pandas, NumPy, Matplotlib, Seaborn, K-Means Clustering,Scikit-learn, Datetime.
+> 
 ![22 (1)](https://github.com/user-attachments/assets/97d3eafd-50fc-4507-a688-c645f611afbc)   ![21 (1)](https://github.com/user-attachments/assets/8382cc18-5ee0-48f0-9f09-111231dc4be8)
 
 ![12355645665](https://github.com/user-attachments/assets/e1a7919b-1af2-4167-8746-aa4e5d058b6a)
