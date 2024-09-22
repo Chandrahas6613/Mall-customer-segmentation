@@ -28,9 +28,9 @@ _Implemented a data analysis model to segment mall customers based on their tran
 >
 > - Evaluation
 >
-> ![method](https://github.com/user-attachments/assets/1f8fed21-ebde-4456-b670-89bbd74a28ec)
+> ![method](https://github.com/user-attacEhments/assets/1f8fed21-ebde-4456-b670-89bbd74a28ec)
 
-> [!TIP]
+> [!VERY IMPORTANT]
 >
 > **Languages Used:**
 > 
@@ -46,7 +46,7 @@ _Implemented a data analysis model to segment mall customers based on their tran
 >
 >  - ELBOW CURVE METHOD: ![ELBOW](https://github.com/user-attachments/assets/5ae282f3-00cd-4e6e-98ea-3f15d4ac9134)
 
->
+>> [!SOURCE]
 >
 > **DATASET:**
 >
