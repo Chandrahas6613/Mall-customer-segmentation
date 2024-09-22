@@ -1,6 +1,6 @@
 # MALL CUSTOMER SEGMENTATION
 
-_Implemented a data analysis model to segment mall customers based on their transaction data using K-Means clustering and RFM (Recency, Frequency, and Monetary) models. The project aimed to help the mall management identify customer groups for targeted marketing strategies_
+_Designed a data analysis model to segment mall customers based on their transaction data using K-Means clustering and RFM (Recency, Frequency, and Monetary) models. The project aimed to help the mall management identify customer groups for targeted marketing strategies._
 
 > [!NOTE]
 > 
