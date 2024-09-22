@@ -30,7 +30,7 @@ _Implemented a data analysis model to segment mall customers based on their tran
 >
 > ![method](https://github.com/user-attachments/assets/1f8fed21-ebde-4456-b670-89bbd74a28ec)
 
-> 
+> > [!TIP]
 >
 > **Languages Used:**
 > 
@@ -40,19 +40,13 @@ _Implemented a data analysis model to segment mall customers based on their tran
 >
 > **ALGORITHMS AND METHODS USED:**
 >
-> - RFM MODEL(Recency, Frequency, Monetary Analysis)
+> - RFM MODEL(Recency, Frequency, Monetary Analysis):  ![RFM](https://github.com/user-attachments/assets/d5b8b2d3-ee1a-44e8-aa06-362d9ab465d3)
 >
->   ![RFM](https://github.com/user-attachments/assets/d5b8b2d3-ee1a-44e8-aa06-362d9ab465d3)
+>  - K MEANS CLUSTERING ALGORITHM : ![KMEANS](https://github.com/user-attachments/assets/2f619e9e-e59b-4d62-a4ec-0525e208e708)
+>
+>  - ELBOW CURVE METHOD: ![ELBOW](https://github.com/user-attachments/assets/5ae282f3-00cd-4e6e-98ea-3f15d4ac9134)
 
 >
->  - K MEANS CLUSTERING ALGORITHM
-> 
-> ![KMEANS](https://github.com/user-attachments/assets/2f619e9e-e59b-4d62-a4ec-0525e208e708)
->
->  - ELBOW CURVE METHOD.
->
-> - ![ELBOW](https://github.com/user-attachments/assets/5ae282f3-00cd-4e6e-98ea-3f15d4ac9134)
-
 >
 > **DATASET:**
 >
